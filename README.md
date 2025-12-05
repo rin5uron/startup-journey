@@ -22,6 +22,7 @@
 ```
 startup-journey/
 ├── README.md          # このファイル
+├── plan/              # 事業計画・スケジュール
 ├── vision-history/    # ビジョンの変更履歴（日付ごと）
 ├── daily/             # 日々の記録（月ごと1ファイル）
 ├── outputs/           # 学習のアウトプット・調査結果
@@ -29,6 +30,11 @@ startup-journey/
 ```
 
 ## 活用方法
+
+### 📊 事業計画 (`plan/`)
+- 事業計画とスケジュールのまとめ
+- vision-historyとdailyの内容を元に整理
+- 月ごとに更新（例: `2025-12_plan.md`）
 
 ### 🎯 ビジョン履歴 (`vision-history/`)
 - 起業プラン・事業戦略の変遷
